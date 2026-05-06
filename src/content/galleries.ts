@@ -1,0 +1,168 @@
+import type { GalleryProject } from "./types";
+
+export const galleries: GalleryProject[] = [
+  {
+    slug: "coastal-silence",
+    title: "Coastal Silence",
+    location: "Mombasa, Kenya",
+    year: "2026",
+    description:
+      "A quiet coastal study of morning light, working harbors, and the stillness that arrives before a city fully wakes.",
+    cover: {
+      src: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2200&q=85",
+      alt: "A cinematic coastal landscape at dusk",
+      caption: "First light across the coast.",
+      orientation: "landscape",
+    },
+    images: [
+      {
+        src: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1800&q=82",
+        alt: "Wide coastal landscape with soft light",
+        caption: "The shoreline before the streets become loud.",
+        orientation: "landscape",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1500&q=82",
+        alt: "A road cutting through a quiet landscape",
+        caption: "A road inland from the water.",
+        orientation: "portrait",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1800&q=82",
+        alt: "A mountain valley with layered atmosphere",
+        caption: "Distance held in soft contrast.",
+        orientation: "landscape",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1800&q=82",
+        alt: "Open water and trees under a muted sky",
+        caption: "Weather crossing the waterline.",
+        orientation: "landscape",
+      },
+    ],
+    tags: ["Landscape", "Documentary", "Coast"],
+  },
+  {
+    slug: "city-after-rain",
+    title: "City After Rain",
+    location: "Nairobi, Kenya",
+    year: "2025",
+    description:
+      "Street scenes shaped by reflection, late buses, storefront light, and the brief theatre of weather passing through Nairobi.",
+    cover: {
+      src: "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=2200&q=85",
+      alt: "Moody city architecture after rainfall",
+      caption: "Rain leaves a second city behind.",
+      orientation: "landscape",
+    },
+    images: [
+      {
+        src: "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1800&q=82",
+        alt: "A building facade with dramatic light",
+        caption: "Architecture sharpened by wet air.",
+        orientation: "landscape",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1500&q=82",
+        alt: "Angular building against a muted sky",
+        caption: "Hard lines, soft weather.",
+        orientation: "portrait",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1800&q=82",
+        alt: "A quiet tree-lined place after rain",
+        caption: "A pause between movements.",
+        orientation: "landscape",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1800&q=82",
+        alt: "Urban street at night with reflective surfaces",
+        caption: "Night folds into the road.",
+        orientation: "landscape",
+      },
+    ],
+    tags: ["Street", "Urban", "Night"],
+  },
+  {
+    slug: "portraits-in-between",
+    title: "Portraits In Between",
+    location: "Addis Ababa, Ethiopia",
+    year: "2025",
+    description:
+      "Portraits made in transitional spaces - doorways, courtyards, rehearsal rooms - where expression arrives unannounced.",
+    cover: {
+      src: "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1800&q=85",
+      alt: "Black and white portrait of a thoughtful man",
+      caption: "A portrait held between movement and stillness.",
+      orientation: "portrait",
+    },
+    images: [
+      {
+        src: "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1400&q=82",
+        alt: "A thoughtful male portrait",
+        caption: "Between takes.",
+        orientation: "portrait",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1400&q=82",
+        alt: "A close portrait of a woman looking toward camera",
+        caption: "A held gaze in window light.",
+        orientation: "portrait",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1400&q=82",
+        alt: "A portrait with soft studio light",
+        caption: "Quiet, direct, unforced.",
+        orientation: "portrait",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=1600&q=82",
+        alt: "A portrait in natural light",
+        caption: "The room becomes part of the face.",
+        orientation: "landscape",
+      },
+    ],
+    tags: ["Portrait", "Editorial", "People"],
+  },
+  {
+    slug: "desert-field-notes",
+    title: "Desert Field Notes",
+    location: "Somali Region",
+    year: "2024",
+    description:
+      "A spare visual notebook of heat, road dust, long shadows, and the human scale of open land.",
+    cover: {
+      src: "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=2200&q=85",
+      alt: "A cinematic road through open desert terrain",
+      caption: "Road dust becomes atmosphere.",
+      orientation: "landscape",
+    },
+    images: [
+      {
+        src: "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1800&q=82",
+        alt: "A road through open land",
+        caption: "The road sets the tempo.",
+        orientation: "landscape",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1800&q=82",
+        alt: "Desert dunes with low shadows",
+        caption: "Heat written into shape.",
+        orientation: "landscape",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?auto=format&fit=crop&w=1600&q=82",
+        alt: "A desert landscape under open sky",
+        caption: "A horizon that refuses to hurry.",
+        orientation: "landscape",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=82",
+        alt: "A solitary animal crossing open land",
+        caption: "Scale, distance, patience.",
+        orientation: "landscape",
+      },
+    ],
+    tags: ["Travel", "Landscape", "Field Notes"],
+  },
+];

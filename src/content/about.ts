@@ -1,0 +1,52 @@
+import type { AboutInfo } from "./types";
+
+export const aboutInfo: AboutInfo = {
+  name: "Abdishukri",
+  logoText: "abdishukri",
+  tagline: "Photographer / Visual Storyteller",
+  portrait: {
+    src: "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1400&q=85",
+    alt: "Portrait placeholder for Abdishukri",
+    caption: "Replace this with Abdishukri's photographer portrait.",
+    orientation: "portrait",
+  },
+  bio: [
+    "Abdishukri is a photographer and visual storyteller working across portraiture, documentary projects, editorial commissions, and long-form visual essays.",
+    "His work is built around restraint, atmosphere, and human presence - images that feel quiet at first, then stay with the viewer.",
+  ],
+  approach:
+    "The approach is slow, collaborative, and cinematic: careful research, clean sequencing, honest captions, and photographs that leave room for memory and interpretation.",
+  clients: [
+    "Editorial commissions",
+    "Independent artists",
+    "Cultural organizations",
+    "Documentary teams",
+  ],
+  publications: ["Frame Journal", "Open Roads Magazine", "Monochrome Review"],
+  location: "Based in Nairobi. Available for commissions across East Africa and beyond.",
+  contact: {
+    email: "hello@abdishukri.com",
+    socials: [
+      {
+        label: "Instagram",
+        url: "https://instagram.com/abdishukrihaybe",
+        ariaLabel: "Visit Abdishukri on Instagram",
+      },
+      {
+        label: "Facebook",
+        url: "https://Facebook.com/abdishukriheybe",
+        ariaLabel: "Visit Abdishukri on Facebook",
+      },
+      {
+        label: "X",
+        url: "https://x.com/abdishukrihaybe",
+        ariaLabel: "Visit Abdishukri on X",
+      },
+      {
+        label: "LinkedIn",
+        url: "https://www.linkedin.com/in/abdishukrihaybe/",
+        ariaLabel: "Visit Abdishukri on LinkedIn",
+      },
+    ],
+  },
+};
