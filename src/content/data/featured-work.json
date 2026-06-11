@@ -1,5 +1,18 @@
 [
   {
+    "title": "Meet Somalia’s trailblazing female camel trader",
+    "platform": "Aljazeera",
+    "date": "2019",
+    "description": "Zamzam Yusuf, a grandmother of 29, is breaking barriers by entering the once men-only camel trading industry in Somalia.",
+    "url": "https://www.aljazeera.com/features/2019/9/16/meet-somalias-trailblazing-female-camel-trader",
+    "image": {
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/1070201ac3694952a0a8867137a842dc-18-WHUJLjA2tYFmHNwWzu43FkqrYg8wvt.jpg",
+      "alt": "Urban night photograph used as publication placeholder",
+      "caption": "Replace with the actual interview image.",
+      "orientation": "landscape"
+    }
+  },
+  {
     "title": "How Somalis see the 'Black Hawk Down' battle three decades on",
     "platform": "BBC",
     "date": "2025",
@@ -22,19 +35,6 @@
       "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/40f71040-b0e8-11f0-862d-25faa7c9cd7e-TEPKSYFA4pVFsLmAw7PVrmAynwFwWQ.jpg",
       "alt": "Landscape used as publication placeholder",
       "caption": "Replace with the actual feature thumbnail.",
-      "orientation": "landscape"
-    }
-  },
-  {
-    "title": "Meet Somalia’s trailblazing female camel trader",
-    "platform": "Monochrome Review",
-    "date": "2019",
-    "description": "Zamzam Yusuf, a grandmother of 29, is breaking barriers by entering the once men-only camel trading industry in Somalia.",
-    "url": "https://www.aljazeera.com/features/2019/9/16/meet-somalias-trailblazing-female-camel-trader",
-    "image": {
-      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/1070201ac3694952a0a8867137a842dc-18-WHUJLjA2tYFmHNwWzu43FkqrYg8wvt.jpg",
-      "alt": "Urban night photograph used as publication placeholder",
-      "caption": "Replace with the actual interview image.",
       "orientation": "landscape"
     }
   },
