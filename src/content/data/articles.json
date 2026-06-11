@@ -26,7 +26,7 @@
     "heroImage": {
       "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=85",
       "alt": "A notebook and writing desk",
-      "caption": "The caption is part of the edit.",
+      "caption": "",
       "orientation": "landscape"
     },
     "body": [
