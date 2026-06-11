@@ -1,9 +1,9 @@
 {
-  "name": "Abdishukri",
+  "name": "Abdishukri Haybe",
   "logoText": "abdishukri",
-  "tagline": "Photographer / Visual Storyteller",
+  "tagline": "Journalist / Visual Storyteller",
   "portrait": {
-    "src": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1400&q=85",
+    "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf7959-EqlpK48TqNjRfZEL5nCRmfqDIcgZHA.webp",
     "alt": "Portrait placeholder for Abdishukri",
     "caption": "Replace this with Abdishukri's photographer portrait.",
     "orientation": "portrait"
