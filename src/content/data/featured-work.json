@@ -37,5 +37,18 @@
       "caption": "Replace with the actual interview image.",
       "orientation": "landscape"
     }
+  },
+  {
+    "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+    "platform": "BBC",
+    "date": "2026",
+    "description": "Fighting continued overnight after breaking out on Wednesday evening",
+    "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo",
+    "image": {
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/edefa830-5fe2-11f1-a292-23ac7fbac375-1-gIwFJsL7oGhrOKvQwrcOkoky1buFJh.jpg",
+      "alt": "",
+      "caption": "",
+      "orientation": "landscape"
+    }
   }
 ]
