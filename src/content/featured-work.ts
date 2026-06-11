@@ -1,46 +1,4 @@
 import type { FeaturedWork } from "./types";
+import data from "./data/featured-work.json";
 
-export const featuredWork: FeaturedWork[] = [
-  {
-    title: "East African New Wave Portraits",
-    platform: "Frame Journal",
-    date: "2026",
-    description:
-      "A featured portfolio selection highlighting emerging portrait practices across East Africa.",
-    url: "https://example.com/frame-journal-abdishukri",
-    image: {
-      src: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1400&q=82",
-      alt: "Editorial portrait used as publication placeholder",
-      caption: "Replace this placeholder with publication artwork.",
-      orientation: "portrait",
-    },
-  },
-  {
-    title: "Field Notes From The Coast",
-    platform: "Open Roads Magazine",
-    date: "2025",
-    description:
-      "A short photo feature on coastal routes, everyday rituals, and environmental texture.",
-    url: "https://example.com/open-roads-abdishukri",
-    image: {
-      src: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=82",
-      alt: "Landscape used as publication placeholder",
-      caption: "Replace with the actual feature thumbnail.",
-      orientation: "landscape",
-    },
-  },
-  {
-    title: "The Shape Of A Quiet City",
-    platform: "Monochrome Review",
-    date: "2024",
-    description:
-      "An editorial interview about photographing weather, architecture, and street-level memory.",
-    url: "https://example.com/monochrome-review-abdishukri",
-    image: {
-      src: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1400&q=82",
-      alt: "Urban night photograph used as publication placeholder",
-      caption: "Replace with the actual interview image.",
-      orientation: "landscape",
-    },
-  },
-];
+export const featuredWork: FeaturedWork[] = data as FeaturedWork[];
