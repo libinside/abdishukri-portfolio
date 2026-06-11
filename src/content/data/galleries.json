@@ -13,25 +13,25 @@
     },
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1800&q=82",
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf3098-QSykJCcIirsCOj1nXs1tqyUjTPDDuy.webp",
         "alt": "Wide coastal landscape with soft light",
         "caption": "The shoreline before the streets become loud.",
         "orientation": "landscape"
       },
       {
-        "src": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1500&q=82",
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf3041-ukQejGF2TzdgUq5mde6lSumcyzSmla.webp",
         "alt": "A road cutting through a quiet landscape",
         "caption": "A road inland from the water.",
         "orientation": "portrait"
       },
       {
-        "src": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1800&q=82",
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf3169-sffZHyRrow7bnlyNkQWjqOHKmNVCdU.webp",
         "alt": "A mountain valley with layered atmosphere",
         "caption": "Distance held in soft contrast.",
         "orientation": "landscape"
       },
       {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1800&q=82",
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf3112-SLTI1cwLW1zgGEsF20khgksQxt1nTF.webp",
         "alt": "Open water and trees under a muted sky",
         "caption": "Weather crossing the waterline.",
         "orientation": "landscape"
