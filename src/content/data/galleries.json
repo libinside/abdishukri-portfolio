@@ -94,17 +94,17 @@
     "year": "2025",
     "description": "Portraits made in transitional spaces - doorways, courtyards, rehearsal rooms - where expression arrives unannounced.",
     "cover": {
-      "src": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1800&q=85",
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf2006-tFfaf4uVGlQxbqbTyV2teUAZb1ZBut.webp",
       "alt": "Black and white portrait of a thoughtful man",
-      "caption": "A portrait held between movement and stillness.",
+      "caption": "On February 8, 2023, I visited Balidoogle Airfield, which was hosting an ongoing event for newly graduated Danab Cadets. At the time, I was serving as Chief Special Photographer to the Prime Minister of Somalia. ",
       "orientation": "portrait"
     },
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1400&q=82",
-        "alt": "A thoughtful male portrait",
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf9274-nDHEECq1nJDVPH3b5LQAWRa4uKwBS2.webp",
+        "alt": "President of Botswana",
         "caption": "Between takes.",
-        "orientation": "portrait"
+        "orientation": "landscape"
       },
       {
         "src": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1400&q=82",
