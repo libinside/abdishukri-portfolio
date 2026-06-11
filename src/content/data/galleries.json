@@ -44,6 +44,76 @@
     ]
   },
   {
+    "slug": "two-broken-nations",
+    "title": "Two Broken Nations",
+    "location": "SOMALIA",
+    "year": "2026",
+    "description": "The second-leg CAF Confederation Cup match between Somalia’s Dekedaha FC and Sudan’s Alzamala SC at Kasarani Stadium in Nairobi on September 27, 2025, was more than a football fixture. It brought together two clubs carrying the hopes of nations shaped by conflict, displacement, and decades of uncertainty. \nNeither team could host the match at home. Ongoing security concerns and limited sporting infrastructure in both Somalia and Sudan have forced their clubs to play continental competitions far from their own supporters. \nYet, despite these challenges, the game stood as a reminder of the resilience that defines both countries. For many young Somalis and Sudanese, football remains one of the few spaces where dreams still feel possible. On dusty pitches, in crowded neighborhoods, and in communities marked by hardship, countless young people continue to imagine futures beyond war and instability. ",
+    "cover": {
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0823-NrkAimyZNblWnRYKZCJ9EqptXeW8Rs.webp",
+      "alt": "",
+      "caption": "",
+      "orientation": "landscape"
+    },
+    "images": [
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0793-8xVVITa8teEUvxOAZSoWUSI15bEisw.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0645-6ICyFmBpIHCv1ZCFGxno0l44dZawLk.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf1016-4L6pe0tDpcp6N4lNpJPB59phnqCthi.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf1228-s18PHMo4snzBhC8qf6SB2gyzhXNONJ.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf1251-m2E27XGdansYuEqulQo3iTIHP3Kgi4.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0800-eqQUL6OD5GGaICcQpcpgQPvKgFKrk5.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf1264-QerTCVPd4hnx6elmQ3WhmlQjgNdt5Q.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf1174-Smw16KG9JyHhbssIOoMe555WnSAkL2.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0679-9bOXgMuarETQdimct4s6iqzpefmN6P.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      }
+    ],
+    "tags": []
+  },
+  {
     "slug": "city-after-rain",
     "title": "City After Rain",
     "location": "Nairobi, Kenya",
