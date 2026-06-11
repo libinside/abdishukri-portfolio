@@ -36,20 +36,20 @@
     ]
   },
   {
-    "slug": "editing-for-silence",
-    "title": "Editing For Silence",
-    "date": "January 27, 2026",
-    "category": "Editing",
-    "excerpt": "On sequencing images so the quiet frames carry as much weight as the dramatic ones.",
+    "slug": "the-somali-way-of-being",
+    "title": "The Somali Way of Being",
+    "date": "Jan 03, 2026",
+    "category": "Revolution Within",
+    "excerpt": "“In the world, things are in relations of mutual dependence rather than those of cause and effect. Instead of observing them in a cause-and-effect relationship, we should observe them in their correlation.”1",
     "heroImage": {
-      "src": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=2200&q=85",
-      "alt": "A quiet forest path in soft light",
-      "caption": "Silence is often built in the sequence.",
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/0b7b3298-7b1f-4a58-8622-fa20218b95f8-6720x3306-YtgINlZxwRny9xjpVVIcscqa1lz2Sf.webp",
+      "alt": "Mogadishu Somalia, 2022 Photo credit: Abdishukri",
+      "caption": "Mogadishu Somalia, 2022 Photo credit: Abdishukri",
       "orientation": "landscape"
     },
     "body": [
-      "A strong edit needs pressure and release. Not every frame should announce itself at the same volume.",
-      "The quiet photographs are often where the audience begins to trust the work. They hold space between the images that perform.",
+      "Since Donald Trump assumed the U.S. presidency, the world has witnessed the leader of the most materially powerful country accusing a small Somali minority of wreaking havoc, while the richest man on Earth, Elon Musk, has relentlessly insulted Somali migrants.",
+      "What may seem complex to outsiders is immediately understandable to Somalis, who say:\n\n“Aflagaado waa astaan dagaal” — “Slander is a symbol of war.”2\n",
       "This sample article shows the clean writing layout: title, date, category, image, caption, and body text."
     ]
   }
