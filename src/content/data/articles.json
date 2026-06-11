@@ -1,19 +1,19 @@
 [
   {
-    "slug": "building-a-visual-language",
-    "title": "Building A Visual Language",
-    "date": "May 2, 2026",
+    "slug": "how-do-people-cope-in-a-land-not-their-own",
+    "title": "How do people cope in a land not their own?",
+    "date": "2024",
     "category": "Process",
-    "excerpt": "Notes on restraint, sequence, and creating a body of work that can be recognized before it is explained.",
+    "excerpt": "“How does one live far from home, bearing the weight of longing?”\nThe question is devastating. How does anyone withstand such emotions? How? And again, how? It’s an indescribable feeling because words seem futile.",
     "heroImage": {
-      "src": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=2200&q=85",
-      "alt": "A camera held in dramatic studio light",
-      "caption": "A language begins with repeated attention.",
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/houd-pwGJb7PmonkeBYfEsQ2V7PGWMWDMjj.jpg",
+      "alt": "Sudanese singer Mahmoud Abdelaziz is seen in this undated portrait. Abdelaziz, a beloved cultural icon, passed away in 2013.",
+      "caption": "Sudanese singer Mahmoud Abdelaziz is seen in this undated portrait. Abdelaziz, a beloved cultural icon, passed away in 2013.",
       "orientation": "landscape"
     },
     "body": [
-      "A visual language is not a preset. It is a pattern of choices that begins to feel inevitable: where the frame rests, what is left out, how a face is allowed to stay unresolved.",
-      "For Abdishukri, the strongest images often come from refusing excess. The edit is quiet, the palette is disciplined, and the sequence gives the viewer room to meet the subject.",
+      "One day, I’ll write something about this—the similarities in music and lyrics between Somali and Sudanese songs. But tonight, the matter feels different. Here I am, sitting alone, sipping a cup of coffee while a low-toned song plays in the background. A few moments later, I decided to ask the person playing the music to change the song. Instead, I asked for my all-time favorite—one of Ibrahim Awad’s classics. But this time, the voice wasn’t Ibrahim Awad’s. It was the legendary Nancy Agag. ",
+      "Ibrahim Awad’s song, with its profound lyrics, is undeniably beautiful. The way it begins with the line “Oh time, have a little mercy” is a masterpiece of artistic expression, capturing the deep yearning for meaning. I believe it’s these opening lines that made me fall in love with the song.",
       "This is placeholder editorial copy. Replace it with real writing, project notes, interviews, press announcements, or journal entries inside src/content/articles.ts."
     ]
   },
