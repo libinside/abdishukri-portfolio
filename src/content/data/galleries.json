@@ -1,12 +1,12 @@
 [
   {
-    "slug": "coastal-silence",
-    "title": "Coastal Silence",
-    "location": "Mombasa, Kenya",
+    "slug": "eid-day",
+    "title": "Eid day",
+    "location": "Nairobi, Kenya",
     "year": "2026",
     "description": "A quiet coastal study of morning light, working harbors, and the stillness that arrives before a city fully wakes.",
     "cover": {
-      "src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2200&q=85",
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf3242-0qxqDDy30rHHlRR5CFmX5PIIILnx0i.webp",
       "alt": "A cinematic coastal landscape at dusk",
       "caption": "First light across the coast.",
       "orientation": "landscape"
