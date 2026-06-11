@@ -13,13 +13,13 @@
     }
   },
   {
-    "title": "Field Notes From The Coast",
-    "platform": "Open Roads Magazine",
+    "title": "'It became one of the children' - Kenyan family on adopting orphaned cheetah cub",
+    "platform": "BBC",
     "date": "2025",
-    "description": "A short photo feature on coastal routes, everyday rituals, and environmental texture.",
-    "url": "https://example.com/open-roads-abdishukri",
+    "description": "The cheetah is now being looked after in Nairobi",
+    "url": "https://www.bbc.com/news/articles/c4gj4x4939qo",
     "image": {
-      "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=82",
+      "src": "https://www.bbc.com/news/articles/c4gj4x4939qo",
       "alt": "Landscape used as publication placeholder",
       "caption": "Replace with the actual feature thumbnail.",
       "orientation": "landscape"
