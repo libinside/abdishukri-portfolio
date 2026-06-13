@@ -22,7 +22,7 @@ export function ProjectCard({ project, featured = false }: ProjectCardProps) {
         <img
           src={project.cover.src}
           alt={project.cover.alt}
-          className="image-hover h-full w-full object-cover"
+          className="h-full w-full object-cover"
           loading={featured ? "eager" : "lazy"}
         />
       </div>
