@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --ivory: #f6f0e7;
-  --charcoal: #11100e;
+  --ivory: #ffffff;
+  --charcoal: #000000;
 }
 
 * {
@@ -71,13 +71,13 @@ img {
     @apply border border-charcoal/15 bg-ivory transition duration-300 ease-out;
   }
 
-  .editorial-card:hover {
-    @apply border-charcoal/45;
-    transform: translateY(-4px);
-  }
+  
+   
+  
 
-  .image-hover {
-    @apply grayscale transition duration-500 ease-out;
+
+  
+
   }
 
   .group:hover .image-hover,
