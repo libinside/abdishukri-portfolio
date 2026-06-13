@@ -50,5 +50,18 @@
       "caption": "",
       "orientation": "landscape"
     }
+  },
+  {
+    "title": "Why Somalia's once-banned boxing thrives in the former warzone",
+    "platform": "BBC",
+    "date": "2023",
+    "description": "Boxing was once banned in Somalia, but the sport is being revived in the country still wracked by violence after years of civil war. The only official boxing club is proving a haven for some in the capital, Mogadishu.",
+    "url": "https://www.bbc.com/news/world-africa-65484230",
+    "image": {
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/129745370-boxer6-PMKSS5uOX9VcYFkYvQg4Y4iYgT5Yjy.jpg",
+      "alt": "",
+      "caption": "\"I grew up wanting to learn how to fight, so I could protect my family. This is what later drew me closer to the sport,\" Najib Mohamed",
+      "orientation": "landscape"
+    }
   }
 ]
