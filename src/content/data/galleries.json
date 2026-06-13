@@ -160,11 +160,11 @@
   {
     "slug": "portraits-in-between",
     "title": "Portraits In Between",
-    "location": "Addis Ababa, Ethiopia",
-    "year": "2025",
+    "location": "Somalia, Kenya, Ethiopia",
+    "year": "2018 - 2026",
     "description": "Portraits made in transitional spaces - doorways, courtyards, rehearsal rooms - where expression arrives unannounced.",
     "cover": {
-      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf2006-tFfaf4uVGlQxbqbTyV2teUAZb1ZBut.webp",
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0392-j7KR4KDjPcS7zAn1c2uWfbg6tujSno.webp",
       "alt": "Black and white portrait of a thoughtful man",
       "caption": "On February 8, 2023, I visited Balidoogle Airfield, which was hosting an ongoing event for newly graduated Danab Cadets. At the time, I was serving as Chief Special Photographer to the Prime Minister of Somalia. ",
       "orientation": "landscape"
@@ -177,21 +177,39 @@
         "orientation": "landscape"
       },
       {
-        "src": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1400&q=82",
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0397-ACsvVBOfF9KkJ2NwpVNUQR2Bd91WkM.webp",
         "alt": "A close portrait of a woman looking toward camera",
         "caption": "A held gaze in window light.",
         "orientation": "portrait"
       },
       {
-        "src": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1400&q=82",
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0357-giQAwbFIodPSDhHsgJvuYWwvzB8p5Z.webp",
         "alt": "A portrait with soft studio light",
         "caption": "Quiet, direct, unforced.",
         "orientation": "portrait"
       },
       {
-        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/at7a1339-L4lSB3ic5R9TJXfxTqDhZeODYTa2nE.webp",
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0850-KGurYZ7Cd5mRIa9i2hSgZrQW3XqMK6.webp",
         "alt": "A portrait in natural light",
         "caption": "The room becomes part of the face.",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0852-AyY5eVgXcRKuZswuf8bnURR0Ln6Zvl.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf2222-Hf706c4QObcCOLTNoUNXSJeZozyYt9.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf2275-zjDGYlPcvZxCRq7iHZePDjCoYc4SMO.webp",
+        "alt": "",
+        "caption": "",
         "orientation": "landscape"
       }
     ],
