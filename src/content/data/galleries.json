@@ -1,5 +1,67 @@
 [
   {
+    "slug": "portraits-in-between",
+    "title": "Portraits In Between",
+    "location": "Somalia, Kenya, Ethiopia",
+    "year": "2018 - 2026",
+    "description": "Portraits made in transitional spaces - doorways, courtyards, rehearsal rooms - where expression arrives unannounced.",
+    "cover": {
+      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0392-j7KR4KDjPcS7zAn1c2uWfbg6tujSno.webp",
+      "alt": "Black and white portrait of a thoughtful man",
+      "caption": "On February 8, 2023, I visited Balidoogle Airfield, which was hosting an ongoing event for newly graduated Danab Cadets. At the time, I was serving as Chief Special Photographer to the Prime Minister of Somalia. ",
+      "orientation": "landscape"
+    },
+    "images": [
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf9274-nDHEECq1nJDVPH3b5LQAWRa4uKwBS2.webp",
+        "alt": "President of Botswana",
+        "caption": "President Duma Gideon Boko visits the BBC East Africa Bureau for an interview during his official visit to Kenya. Boko was inaugurated in November 2024 after his Umbrella for Democratic Change (UDC) won a landslide election, ending 58 years of rule by the Botswana Democratic Party (BDP).",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0397-ACsvVBOfF9KkJ2NwpVNUQR2Bd91WkM.webp",
+        "alt": "A close portrait of a woman looking toward camera",
+        "caption": "A held gaze in window light.",
+        "orientation": "portrait"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0357-giQAwbFIodPSDhHsgJvuYWwvzB8p5Z.webp",
+        "alt": "A portrait with soft studio light",
+        "caption": "Quiet, direct, unforced.",
+        "orientation": "portrait"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0850-KGurYZ7Cd5mRIa9i2hSgZrQW3XqMK6.webp",
+        "alt": "A portrait in natural light",
+        "caption": "The room becomes part of the face.",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0852-AyY5eVgXcRKuZswuf8bnURR0Ln6Zvl.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf2222-Hf706c4QObcCOLTNoUNXSJeZozyYt9.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      },
+      {
+        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf2275-zjDGYlPcvZxCRq7iHZePDjCoYc4SMO.webp",
+        "alt": "",
+        "caption": "",
+        "orientation": "landscape"
+      }
+    ],
+    "tags": [
+      "Portrait",
+      "Editorial",
+      "People"
+    ]
+  },
+  {
     "slug": "eid-day",
     "title": "Eid day",
     "location": "Nairobi, Kenya",
@@ -155,68 +217,6 @@
       "Street",
       "Urban",
       "Night"
-    ]
-  },
-  {
-    "slug": "portraits-in-between",
-    "title": "Portraits In Between",
-    "location": "Somalia, Kenya, Ethiopia",
-    "year": "2018 - 2026",
-    "description": "Portraits made in transitional spaces - doorways, courtyards, rehearsal rooms - where expression arrives unannounced.",
-    "cover": {
-      "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0392-j7KR4KDjPcS7zAn1c2uWfbg6tujSno.webp",
-      "alt": "Black and white portrait of a thoughtful man",
-      "caption": "On February 8, 2023, I visited Balidoogle Airfield, which was hosting an ongoing event for newly graduated Danab Cadets. At the time, I was serving as Chief Special Photographer to the Prime Minister of Somalia. ",
-      "orientation": "landscape"
-    },
-    "images": [
-      {
-        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf9274-nDHEECq1nJDVPH3b5LQAWRa4uKwBS2.webp",
-        "alt": "President of Botswana",
-        "caption": "President Duma Gideon Boko visits the BBC East Africa Bureau for an interview during his official visit to Kenya. Boko was inaugurated in November 2024 after his Umbrella for Democratic Change (UDC) won a landslide election, ending 58 years of rule by the Botswana Democratic Party (BDP).",
-        "orientation": "landscape"
-      },
-      {
-        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0397-ACsvVBOfF9KkJ2NwpVNUQR2Bd91WkM.webp",
-        "alt": "A close portrait of a woman looking toward camera",
-        "caption": "A held gaze in window light.",
-        "orientation": "portrait"
-      },
-      {
-        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0357-giQAwbFIodPSDhHsgJvuYWwvzB8p5Z.webp",
-        "alt": "A portrait with soft studio light",
-        "caption": "Quiet, direct, unforced.",
-        "orientation": "portrait"
-      },
-      {
-        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0850-KGurYZ7Cd5mRIa9i2hSgZrQW3XqMK6.webp",
-        "alt": "A portrait in natural light",
-        "caption": "The room becomes part of the face.",
-        "orientation": "landscape"
-      },
-      {
-        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf0852-AyY5eVgXcRKuZswuf8bnURR0Ln6Zvl.webp",
-        "alt": "",
-        "caption": "",
-        "orientation": "landscape"
-      },
-      {
-        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf2222-Hf706c4QObcCOLTNoUNXSJeZozyYt9.webp",
-        "alt": "",
-        "caption": "",
-        "orientation": "landscape"
-      },
-      {
-        "src": "https://wfdj2ymc4ocilply.public.blob.vercel-storage.com/photos/dscf2275-zjDGYlPcvZxCRq7iHZePDjCoYc4SMO.webp",
-        "alt": "",
-        "caption": "",
-        "orientation": "landscape"
-      }
-    ],
-    "tags": [
-      "Portrait",
-      "Editorial",
-      "People"
     ]
   },
   {
